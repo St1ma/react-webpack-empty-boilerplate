@@ -1,0 +1,15 @@
+src/templates/
+src/assets/bower_components
+node_modules/
+public/static/build/
+public/tmp/
+public/static/config.js
+public/static/js/bundle.js
+public/static/build/main.js
+public/static/build/main.js.map
+npm-debug.log
+.DS_Store
+tmp
+testStorage
+storage
+newrelic_agent.log
